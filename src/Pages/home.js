@@ -1,6 +1,6 @@
 import React from "react";
 import "./styles/home.css";
-import * as M from "@material-ui/core";
+import {withRouter} from 'react-router-dom'
 
 function Home() {
   return (
